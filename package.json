@@ -1,0 +1,32 @@
+{
+  "name": "AureShame-NFT-Staking-dApp",
+  "version": "1.0.0",
+  "description": "A decentralized application for staking AureShame NFTs and earning rewards",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "ethers": "^6.13.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "serve": "^14.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "author": "UltraDayLight",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ultradaylight/AureShame-NFT-Staking-dApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ultradaylight/AureShame-NFT-Staking-dApp/issues"
+  },
+  "homepage": "https://github.com/ultradaylight/AureShame-NFT-Staking-dApp#readme"
+}
